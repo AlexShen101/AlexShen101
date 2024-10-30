@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, there, I'm Alex! </h1>
 <img src="https://pbs.twimg.com/media/Fqk4zoBaYAAboPr?format=jpg&name=4096x4096" width="40%" align="right">
  
-- I am a 2nd year Computer Science Student at the University of Waterloo
+- I am a 3rd year Computer Science Student at the University of Waterloo
 - Currently a Full Stack Developer [@Polaris Intelligence](https://www.polarisintelligence.com/)
 - Avid notetaker and second-brainer <img src="https://styles.redditmedia.com/t5_2mz3dr/styles/communityIcon_l538j35ftd3b1.png" width="20" />
 - Consistency is key
