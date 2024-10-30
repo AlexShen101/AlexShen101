@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, there, I'm Alex! </h1>
+<h1 align="center"> Hi there, I'm Alex! </h1>
 <img src="https://pbs.twimg.com/media/Fqk4zoBaYAAboPr?format=jpg&name=4096x4096" width="40%" align="right">
  
 - I am a 3rd year Computer Science Student at the University of Waterloo
